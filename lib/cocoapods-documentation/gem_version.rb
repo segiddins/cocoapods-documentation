@@ -1,3 +1,3 @@
-module CocoapodsDocumentation
+module CocoaPodsDocumentation
   VERSION = "0.0.1"
 end
